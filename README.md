@@ -24,3 +24,4 @@ SIGNAL is an application capable of accepting signal data and visually presentin
 ## ARTIFACTS   
    
 Application: https://hpbarr.shinyapps.io/SIGNAL/   
+Test Data (included in this repository): Signal_1.csv
