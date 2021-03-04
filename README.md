@@ -4,7 +4,6 @@ author: Herbert Barrientos
 date:  2021-03-03
 autosize: true
    
-========================================================   
 ## PROBLEM STATEMENT   
    
 Instruments produce signals which describe machine usage behavior based on certain events. On a timeline, the signals may present patterns of interest. Finding these patterns, identifying them, and later reusing them for different purposes is the challenge at hand.   
